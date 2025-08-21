@@ -1,5 +1,5 @@
 import React from 'react';
-import TelegramDashboard from './TelegramDashboard';
+import TelegramDashboard from './TelegramMessagesDashboard';
 
 function App() {
   return (
